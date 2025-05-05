@@ -40,9 +40,11 @@ A modern and responsive chat interface that mimics the feel of AI-powered messag
 
 ---
 
-## 📷 Preview
+## 🖥️ Desktop
 
 > ![Chat UI Desktop](screenshots/Screenshot%202025-05-05%20at%2012.17.32 PM.png)
+
+## 🖥️ Mobile
 > ![Chat UI Mobile](screenshots/Screenshot%202025-05-05%20at%2012.18.55 PM.png)
 
 ---
@@ -51,12 +53,12 @@ A modern and responsive chat interface that mimics the feel of AI-powered messag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/sabbanimanideep/BotBuddy.ai.git
    ```
 
 2. Open `index.html` in your browser:
    ```bash
-   cd your-repo-name
+   cd BotBuddy.ai
    open index.html
    ```
 
@@ -71,10 +73,6 @@ A modern and responsive chat interface that mimics the feel of AI-powered messag
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 Made with ❤️ by [Manideep Sabbani]
